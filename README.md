@@ -4,4 +4,4 @@
 
 <b>Project Report :</b> [Link](https://github.com/pranabendra/digital-pid-controller/blob/master/Report/Control_Seminar_Project_PPC.pdf)
 
-<b>Project Video  :</b> https://youtu.be/kQsoyTpZeJc
+<b>Project Video  :</b> https://youtu.be/duWAQ8FL80s
